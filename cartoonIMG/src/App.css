@@ -1,0 +1,20 @@
+/* Sam Goldberg
+// 11/9/26
+// Week 3 Assignment - React Component */
+
+img {
+  border-radius: 75px;
+}
+#pictureBox {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+#ModernToons #OlderToons {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+h1 {
+  font-size: 30px;
+}
+
